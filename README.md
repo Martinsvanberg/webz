@@ -6,6 +6,8 @@ C4 Solutions is a rising star in the world of IT-consulting.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![Pika](https://github.com/Martinsvanberg/webz/blob/master/Screen_Shot_2018-10-25_at_11.02.15_AM.png)
+
 ```markdown
 Syntax highlighted code block
 
@@ -21,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Pika](Screen_Shot_2018-10-25_at_11.02.15_AM.png)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
