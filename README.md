@@ -5,7 +5,7 @@ C4 Solutions is a rising star in the world of IT-consulting.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![nature](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiRx7zqkunkAhXrsIsKHd3xCBkQjRx6BAgBEAQ&url=https%3A%2F%2Fstore.payloadz.com%2Fdetails%2F2570821-movies-and-videos-other-royalty-free-4k-nature-stock-video.html&psig=AOvVaw3odzv2MZDS8sd6gx1QN0gJ&ust=1569403781414435)
+![nature](https://github.com/Martinsvanberg/webz/blob/master/2570821_thumb.png)
 ![Pika](https://github.com/Martinsvanberg/webz/blob/master/Screen_Shot_2018-10-25_at_11.02.15_AM.png)
 
 ```markdown
