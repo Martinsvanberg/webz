@@ -1,8 +1,6 @@
 ## Welcome to C4 Solutions - Explosive Programming
 
-You can use the [editor on GitHub](https://github.com/Martinsvanberg/webz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+C4 Solutions is a rising star in the world of IT-consulting. 
 
 ### Markdown
 
