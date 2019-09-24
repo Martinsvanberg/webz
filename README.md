@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to C4 Solutions - Explosive Programming
 
 You can use the [editor on GitHub](https://github.com/Martinsvanberg/webz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
