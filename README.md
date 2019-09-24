@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://drive.google.com/drive/folders/12WPRCGAimiWjCOjjgCoHcECqAaaCmil3](src)
+[Link](url) and ![Pika](Screen_Shot_2018-10-25_at_11.02.15_AM.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
